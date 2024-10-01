@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Personal Portfolio">
+	<meta name="author" content="TAMBERT Francis Boubacar">
+
+	<title>Francis Boubacar</title>
+
+  <!-- Web Fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700' rel='stylesheet' type='text/css'>
+	<!-- Bootstrap core CSS -->
+	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<!-- Font Awesome CSS -->
+	<link href="assets/css/font-awesome.min.css" rel="stylesheet" media="screen">
+	<!-- Animate css -->
+  <link href="assets/css/animate.css" rel="stylesheet">
+  <!-- Magnific css -->
+	<link href="assets/css/magnific-popup.css" rel="stylesheet">
+	<!-- Custom styles CSS -->
+	<link href="assets/css/style.css" rel="stylesheet" media="screen">
+  <!-- Responsive CSS -->
+  <link href="assets/css/responsive.css" rel="stylesheet">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+  <link rel="shortcut icon" href="assets/images/ico/favicon.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/images/ico/apple-touch-icon-144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/images/ico/apple-touch-icon-114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/images/ico/apple-touch-icon-72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="assets/images/ico/apple-touch-icon-57-precomposed.png">
+
+</head>
+
+<body>
+	<!-- Preloader -->
+	<div id="tt-preloader">
+		<div id="pre-status">
+			<div class="preload-placeholder"></div>
+		</div>
+	</div>
+
+	<!-- Home Section -->
+	<section id="home" class="tt-fullHeight" data-stellar-vertical-offset="50" data-stellar-background-ratio="0.2">
+		<div class="intro">
+            <div class="intro-sub">F. Boubacar</div>
+			<h1>Senior Software <span>Engineer</span></h1>
+            <p><i>&lt;Simple things should be simple, complex things should be possible/&gt;</i>
+            </p>
+
+      <div class="social-icons">
+        <ul class="list-inline">
+            <li><a href="https://www.linkedin.com/"><i class="fa fa-linkedin"></i></a></li>
+            <li><a href="https://twitter.com"><i class="fa fa-twitter"></i></a></li>
+        </ul>
+      </div> <!-- /.social-icons -->
+		</div>
+
+		<div class="mouse-icon">
+			<div class="wheel"></div>
+		</div>
+	</section><!-- End Home Section -->
+
+	<!-- Navigation -->
+	<header class="header">
+		<nav class="navbar navbar-custom" role="navigation">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="index.html"><img src="assets/images/logo.png" alt=""></a>
+				</div>
+
+				<div class="collapse navbar-collapse" id="custom-collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="#home">Home</a></li>
+						<li><a href="#about">About</a></li>
+						<li><a href="#resume">Resume</a></li>
+						<li><a href="#skills">Skills</a></li>
+                        <li><a href="#contact">Contact</a></li>
+					</ul>
+				</div>
+			</div><!-- .container -->
+		</nav>
+	</header><!-- End Navigation -->
+
+    <!-- About Section -->
+    <section id="about" class="about-section section-padding">
+      <div class="container">
+        <h2 class="section-title wow fadeInUp">About Me</h2>
+
+        <div class="row">
+
+          <!--div class="col-md-4 col-md-push-8">
+            <div class="biography">
+              <ul>
+                  <li><strong>Profile&nbsp;&gt;&nbsp;</strong> <a href="https://www.linkedin.com/in/tamboura/?locale=en_US"><i class="fa fa-linkedin"></i></a></li>
+              </ul>
+            </div>
+          </div--> <!-- col-md-4 -->
+
+          <div class="col-md-12 ">
+            <div class="short-info wow fadeInUp">
+              <h3>Objective</h3>
+              <p class="text-justify ptext">Contribute in challenging projects, which are/will really change people's lives. I'm continuously expanding my solid experience in Software Engineering, using my technical and interpersonal skills to collaborate and build complex &amp; robust enterprise applications. As an experienced Software Engineer, I have a great interest for the devops model and big data and constantly improving myself, which is key for remaining a valuable asset to the business.
+	      </br>As an individual, my business parteners usually define me as a creative, naturally passionate and a team player.</p>
+            </div>
+
+            <div class="short-info wow fadeInUp">
+              <h3>What I Do ?</h3>
+              <p class="text-justify ptext">I'm a pationate Software Engineer, working on challenging projects since 2013. I have a strong experience in crafting advanced Java web &amp; desktop applications. I love creating, with cutting edge technologies, awesome products as per my clients’ need.</p>
+              <ul class="list-check">
+                <li>Certified Professional Java Programmer</li>
+                <li>Certified Professional Scrum Master</li>
+                <li>Certified SAFe&reg; 5 Practitioner</li>
+                <li>Software Craftman</li>
+              </ul>
+            </div>
+            <!--h5 style="text-align: center;"><i>< Solve complex problems... with simple solutions. /></i></h5><br/-->
+            <div class="row" >
+                <div class="col-md-6">
+                    <a href="https://www.youracclaim.com/users/boubacar-tamboura" target="_blank" title="">
+                        <span>
+                            <img src="assets/images/oracle_professional.png" alt="My profile" title="" data-path="assets/images/oracle_professional.png" style="width: 40%; height: 40%; display: block; margin-left: auto; margin-right: auto;"/>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6">
+                    <a href="https://www.scrum.org/User-Profile/userId/219813" target="_blank" title="">
+                        <span>
+                            <img src="assets/images/scrum.png" alt="" title="" style="width: 80%; height: 80%; display: block; margin-left: auto; margin-right: auto;"/>
+                        </span>
+                    </a>
+                </div>
+            </div>
+            <!--div class="download-button">
+              <a class="btn btn-primary btn-lg" href="#"><i class="fa fa-download"></i>download my cv</a>
+            </div-->
+            
+          </div>
+
+        </div> <!-- /.row -->
+      </div> <!-- /.container -->
+    </section><!-- End About Section -->
+
+    <!-- Resume Section -->
+    <section id="resume" class="resume-section "> <!-- section-padding -->
+        <div class="container">
+            <h2 class="section-title wow fadeInUp">Resume</h2>
+            <!--div class="download-button">
+              <a class="btn btn-primary btn-lg btn-block" href="resume.pdf" target="blanck"><i class="fa fa-download"></i>Download my Resume</a>
+            </div-->
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="resume-title">
+                        <h3>Education</h3>
+                    </div>
+                    <div class="resume">
+                        <ul class="timeline">
+                            <li>
+                                <div class="posted-date">
+                                    <span class="month">2013</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Master’s Degree in Engineering</h3>
+                                            <span>Information Technology, National School of Computer Science and Applied Mathematics of Grenoble</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Software design
+                                            - Distributed Applications and Cloud
+                                            - Information systems security
+                                            - Distributed Systems and Algorithms
+                                            - Concurrent and real-time systems
+                                            - Software testing &amp; reliability</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+
+                            <li class="timeline-inverted">
+                                <div class="posted-date">
+                                    <span class="month">2011</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Master’s Degree in Engineering</h3>
+                                            <span>Computer and Information Sciences, National School of Computer Science and System Analysis</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Software engineering
+                                            - Object programming
+                                            - Project Management
+                                            - Knowledge-based systems
+                                            - Web Technologies
+                                            - Systems and Networks</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div> <!-- /timeline-panel -->
+                            </li>
+
+                            <li>
+                                <div class="posted-date">
+                                  <span class="month">2009</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Bachelor of Science</h3>
+                                            <span>Mathematics and Computer Science, Chouaib Doukkali University</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Software quality
+                                            - Object-oriented, Procedural &amp; Event-driven programming
+                                            - Computer networks
+                                            - Computer simulation
+                                            - Web development
+                                            - Image processing</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div><!-- /row -->
+            
+            <div class="row"></div>
+            
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="resume-title">
+                        <h3>Experience</h3>
+                    </div>
+                    <div class="resume">
+                        <ul class="timeline">
+                            <li class="timeline-inverted">
+                                <div class="posted-date">
+                                  <span class="month">2017-2020</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Lead Software Engineer</h3>
+                                            <span>Amadeus, Nice - France</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Senior Software Development Engineer, worked on various e-commerce products and critical Orchestration Backends (thousands of TPS). Successfully delivered, as tech lead and as Scrum Master, several major projects to travel industry top players.<br/>
+					    My responsabilities included :<br/>
+                                            Proposal of viable technical solutions<br/>
+                                            Design, develop and maintain world class critical applications (Agile-Scrum)</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div> <!-- /timeline-panel -->
+                            </li>
+
+                            <li>
+                                <div class="posted-date">
+                                  <span class="month">2013-2016</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Software Engineer</h3>
+                                            <span>Volt, Nice - France</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>As a Software Engineering Consultant, I worked on various Amadeus e-commerce platforms (for airlines, corporations, online and offline travel agencies). Contributed to various complex problems solving including the design and development of several innovative products providing outstanding data-driven Search, Shopping and Booking experience to Business and leisure travelers. <br/>
+					     My responsabilities included :<br/>
+                                             Modeling, design and develop softwares (Agile-Scrum, Waterfall)</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div><!-- /row -->
+        </div><!-- /.container -->
+    </section><!-- End Resume Section -->
+    <br/>
+    <!-- Skills Section -->
+    <section id="skills" class="skills-section section-padding">
+      <div class="container">
+        <h2 class="section-title wow fadeInUp">Main Skills</h2>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="skill-progress">
+              <div class="skill-title"><h3>Java Enterprise</h3></div>
+              <div class="progress">
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" ><!--span>95%</span-->
+                </div>
+              </div><!-- /.progress -->
+            </div><!-- /.skill-progress -->
+
+            <div class="skill-progress">
+              <div class="skill-title"><h3>MongoDB</h3></div>
+              <div class="progress">
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" ><!--span>90%</span-->
+                </div>
+              </div><!-- /.progress -->
+            </div><!-- /.skill-progress -->
+            <div class="skill-progress">
+              <div class="skill-title"><h3>Web Services</h3></div>
+              <div class="progress">
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" ><!--span>95%</span-->
+                </div>
+              </div><!-- /.progress -->
+            </div><!-- /.skill-progress -->
+          </div><!-- /.col-md-6 -->
+
+          <div class="col-md-6">
+            <div class="skill-progress">
+              <div class="skill-title"><h3>REST/JSON APIs</h3></div>
+              <div class="progress">
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" ><!--span>95%</span-->
+                </div>
+              </div><!-- /.progress -->
+            </div><!-- /.skill-progress -->
+            <div class="skill-progress">
+              <div class="skill-title"><h3>Spring </h3></div>
+              <div class="progress">
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" ><!--span>90%</span-->
+                </div>
+              </div><!-- /.progress -->
+            </div><!-- /.skill-progress -->
+            <div class="skill-progress">
+              <div class="skill-title"><h3>Project Management</h3></div>
+              <div class="progress">
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" ><!--span>95%</span-->
+                </div>
+              </div><!-- /.progress -->
+            </div><!-- /.skill-progress -->
+          </div><!-- /.col-md-6 -->
+        </div><!-- /.row -->
+
+      </div><!-- /.container -->
+    </section><!-- End Skills Section -->
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact-section section-padding">
+      <div class="container">
+        <h2 class="section-title wow fadeInUp">Get in touch</h2>
+        
+        <div class="col-md-12">
+            <div class="row">
+                <div class="col-md-12">
+                    <center>
+                    <i class="fa fa-info center"></i>
+                    <address>
+                        Info@Tambert.net
+                    </address>
+                    </center>
+                </div>
+            </div>
+
+        <div class="row">
+
+          </div>
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- End Contact Section -->
+
+	<!-- Footer Section -->
+    <footer class="footer-wrapper">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="copyright text-center">
+                <p>&copy; F. Boubacar 2020. All rights reserved.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer><!-- End Footer Section -->
+
+	<!-- Scroll-up -->
+	<div class="scroll-up">
+		<a href="#home"><i class="fa fa-angle-up"></i></a>
+	</div>
+
+	<!-- Javascript files -->
+	<script src="assets/js/jquery.js"></script>
+	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/js/jquery.stellar.min.js"></script>
+  <script src="assets/js/jquery.sticky.js"></script>
+  <script src="assets/js/smoothscroll.js"></script>
+  <script src="assets/js/wow.min.js"></script>
+  <script src="assets/js/jquery.countTo.js"></script>
+  <script src="assets/js/jquery.inview.min.js"></script> 
+  <script src="assets/js/jquery.easypiechart.js"></script>
+  <script src="assets/js/jquery.shuffle.min.js"></script>
+  <script src="assets/js/jquery.magnific-popup.min.js"></script>
+  <script src="assets/js/froogaloop2.min.js"></script>
+  <script src="assets/js/jquery.fitvids.js"></script>
+  <script src="assets/js/scripts.js"></script>
+</body>
+</html>
